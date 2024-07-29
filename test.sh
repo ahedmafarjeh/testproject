@@ -11,3 +11,4 @@ echo "password: $pass"
 
 #print date
 echo date
+#this for avg function
