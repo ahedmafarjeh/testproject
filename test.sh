@@ -8,3 +8,6 @@ echo "enter the user password"
 read -s pass
 
 echo "password: $pass"
+
+#print date
+echo date
